@@ -211,33 +211,7 @@ Deploy a Secure Sandbox: Configure a minimal, secure sandboxed environment using
 
 Integrate Logging and Dashboards: Continuously integrate logs and system alerts into a dashboard for monitoring and analysis.
 
-Sources used to help me develop my idea which is currently in development as a hobby project slash potential solution to numerous operating system failings with modern systems:
+### Project Accomplished and Working - Test it now using Go 
 
-    github.com
-    kaggle.com
-    stackademic.com
-    go.dev
-    github.com
-    go.dev
-    x-cmd.com
-    github.com
-    youtube.com
-    typecast.ai
-    makiai.com
-    ycombinator.com
-    github.com
-    medium.com
-    pypi.org
-    reddit.com
-    readthedocs.io
-    github.com
-    medium.com
-    elevenlabs.io
-    dev.to
-    datacamp.com
-    segmind.com
-    medium.com
-    daytona.io
-    nvidia.com
-    modal.com
-    github.com
+Developer:
+Casey Jay Topojani
